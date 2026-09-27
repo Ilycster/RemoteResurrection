@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <header version="2"/>
+  <version major="3" minor="6" revision="0" build="3"/>
+  <region id="MetaData">
+    <node id="root">
+      <attribute id="Module" type="23" value="397de034-e6ad-4aad-8b89-1dbb7b5bda9a"/>
+      <attribute id="Name" type="23" value="RemoteResurrection"/>
+      <attribute id="Type" type="23" value="Add-on"/>
+      <attribute id="UUID" type="23" value="25d1bd37-6b25-48c4-9239-0798766f6931"/>
+    </node>
+  </region>
+</save>
