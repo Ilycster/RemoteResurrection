@@ -1,0 +1,5 @@
+{
+  "RequiredExtensionVersion": 60,
+  "ModTable": "RemoteResurrection",
+  "FeatureFlags": ["Lua", "OsirisExtensions"]
+}
