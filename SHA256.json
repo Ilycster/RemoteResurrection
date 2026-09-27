@@ -1,0 +1,20 @@
+{
+  ".gitattributes": "ded42444a8619628153184a40e7682a4ac88c6e28be4cbbc576848842489cbbe",
+  ".gitignore": "f11358e35213df88f350679f739861cacf0a300c6d4bab8757af41c9f6d3c144",
+  "Build.ps1": "6a72fb3a9f1d84c06352f98c641ca2dad8e4a80cb397692de6e07c0452fcb683",
+  "CHANGELOG.md": "83e33e71c4217766e1916bed37b4e51f77cfad790b472304678bb6a32a1e0a2f",
+  "LICENSE.txt": "3cc2873601716efebeffca70139c365858728d56303886025350d4331ff59201",
+  "README.md": "a8e56618b1ab46df7879fb25092b12e5210ea8dff2bf200d753f16109ab5b19f",
+  "RemoteResurrection_397de034-e6ad-4aad-8b89-1dbb7b5bda9a.pak": "95cfe10ffe90c871ebf994c9f67b831c3a69bc279d69e0cf92a104fc65fbb747",
+  "source/Mods/RemoteResurrection_397de034-e6ad-4aad-8b89-1dbb7b5bda9a/meta.lsx": "5df7f897fd09bd278583870cfd8db5c20b1f05e6bae8254253bf26ddda8ccadf",
+  "source/Mods/RemoteResurrection_397de034-e6ad-4aad-8b89-1dbb7b5bda9a/OsiToolsConfig.json": "a3f30b6db46b0af9cecd4d4446225c1166c22cd02a3db95e861db303fc360c24",
+  "source/Mods/RemoteResurrection_397de034-e6ad-4aad-8b89-1dbb7b5bda9a/Story/RawFiles/Lua/BootstrapClient.lua": "c599a193cd915ed4d859417699ac246436d2f5fa6a47b4948d4fb28cb73a559e",
+  "source/Mods/RemoteResurrection_397de034-e6ad-4aad-8b89-1dbb7b5bda9a/Story/RawFiles/Lua/BootstrapServer.lua": "9218d0e4039f790d4c2b9d89823efd1841a9d2b9dc277f09926a1b13ea95a5ee",
+  "source/Mods/RemoteResurrection_397de034-e6ad-4aad-8b89-1dbb7b5bda9a/Story/RawFiles/Lua/Shared.lua": "e6a2ef8c69703582be3835cc64d298be72ef18db9eab5acc91579598680343a4",
+  "source/Projects/RemoteResurrection/meta.lsx": "e944e7262f754a884f71ac9e09ee979c6f975fe075a7ab120a4bdf231a2d7bc2",
+  "STEAM-WORKSHOP.md": "9e204dc8481e2a2050e735a092f73070ef2766f389629c6652ae89cc66b68c3a",
+  "TECHNICAL-NOTES.md": "4719fff10f83f3836eb51d298c811d01cf7862f5289420ea010a080b186d77dd",
+  "tests/test_mod.py": "a2de4ca8188abae7f66547ee3ba89663caef7a1ab0b10d26997f1b38b0769c49",
+  "VALIDATION.json": "bcb6f236d1aa7df0f9b19463d4303da0383318576e36154a2115fe91da08abec",
+  "WORKSHOP-DESCRIPTION.txt": "c9b24222cb2aa64c4558a26dce20b56c545222d2a907ed6c1933ae5b17a94c51"
+}

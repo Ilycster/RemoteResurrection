@@ -1,0 +1,30 @@
+Remote Resurrection - Scroll Menu
+
+Right-click a Resurrection Scroll and choose "Revive [character name]" to bring a dead teammate
+back beside the caster, even when their body is on the other side of the current map.
+
+FEATURES
+- Adds a named list of eligible dead party members to the scroll's right-click menu.
+- Revives the selected teammate near the caster, with no distance or line-of-sight requirement.
+- Uses one Resurrection Scroll and 3 AP during combat; restores 20% vitality.
+- Shows a disabled message when no eligible teammates are dead.
+- Keeps the original Cast skill action available.
+
+REQUIRES
+Divinity: Original Sin 2 - Definitive Edition (Windows).
+Norbyte's Script Extender v60 or later on the host and every client using the menu:
+https://github.com/Norbyte/ositools/releases
+
+HOW TO USE
+Enable the mod. Select the caster, put a Resurrection Scroll in that character's inventory,
+right-click it, and choose "Revive [name]". Stand in a clear area for the landing position.
+
+SCOPE
+Keyboard and mouse, original Story campaign. Same loaded map/region only; no travel back to
+previous acts. NPCs, summons and story-blocked resurrections are excluded. The custom action
+uses fixed AP and health values; talent discounts/bonuses are not reproduced. Controller and
+split-screen interfaces are not supported in this initial build.
+
+INITIAL BUILD STATUS
+Build 1.0.0.4 has 22 automated checks and a successful user-confirmed in-game test of the named
+menu and resurrection beside the caster. Remote-client co-op and combat testing remain pending. The first Workshop upload should be private for testing.

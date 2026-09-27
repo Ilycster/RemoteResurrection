@@ -1,0 +1,70 @@
+{
+  "status": "Build 1.0.0.4: user confirmed named menu and successful resurrection beside caster in-game",
+  "tests": {
+    "runtime": "Lua 5.3 via lupa",
+    "passed": 22,
+    "failed": 0,
+    "kind": "simulated engine APIs"
+  },
+  "package": {
+    "tool": "Norbyte LSLib 1.15.15",
+    "target": "dos2de",
+    "roundtrip_file_count": 5,
+    "roundtrip_bytes_match": true,
+    "packageVersion": 13,
+    "flags": 2,
+    "filenameMatchesModuleFolder": true
+  },
+  "metadata": {
+    "xml_valid": true,
+    "json_valid": true,
+    "osiris_event_arities_verified": true
+  },
+  "not_tested": [
+    "Combat AP and refund behavior in-game",
+    "Remote-client co-op",
+    "All-map distances and regions in-game",
+    "Editor project loading",
+    "Steam upload"
+  ],
+  "discoveryMetadataFix": {
+    "PublishVersion": 913641111,
+    "decoded": "3.6.117.3735",
+    "packageRoundTripVerified": true,
+    "inGameVisibilityConfirmed": true,
+    "fullMetadataSchema": true,
+    "confirmation": {
+      "source": "User report",
+      "date": "2026-09-27",
+      "scope": "Main-menu Mods list only"
+    }
+  },
+  "modVersion": "1.0.0.4",
+  "menuFix": {
+    "fourArgumentInventoryCallback": true,
+    "deferredFlashHook": true,
+    "nativeArrayClearingModeled": true,
+    "inGameMenuConfirmed": true,
+    "inGameResurrectionConfirmed": true,
+    "beforeCallbackOnly": true,
+    "networkPeerOwnership": true,
+    "priorBuildCheckingEntryConfirmed": true
+  },
+  "inGameValidation": {
+    "date": "2026-09-27",
+    "version": "1.0.0.4",
+    "evidence": "User report and before/after screenshots from their test world",
+    "confirmed": [
+      "Revive Ifan ben-Mezd appears beside Cast skill",
+      "Dead teammate becomes alive beside the caster",
+      "Game displays Teammate resurrected beside you"
+    ],
+    "notIndependentlyVerified": [
+      "Combat AP charging",
+      "Exact vitality percentage",
+      "Scroll count after cast",
+      "Remote-client co-op",
+      "All-map distances and regions"
+    ]
+  }
+}
